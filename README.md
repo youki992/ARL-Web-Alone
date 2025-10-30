@@ -1,7 +1,6 @@
 # ARL-Web-Alone
 ARL资产灯塔主系统纯Python启动版，支持后续自定义修改流程功能
 
-<a href="https://github.com/youki992/ARL-Web-Alone"><img alt="Release" src="https://img.shields.io/badge/ARL-Web-Alone-1.0-ff69b4"></a>
 <a href="https://github.com/youki992/ARL-Web-Alone"><img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/youki992/ARL-Web-Alone?color=success)
 ![GitHub forks](https://img.shields.io/github/forks/youki992/ARL-Web-Alone)
