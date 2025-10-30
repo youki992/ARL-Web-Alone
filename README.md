@@ -36,7 +36,7 @@ docker load -i mongodb-arl.tar
 ```
 python start_all.py
 ```
-启动成功，Web端启动在5003端口，访问http://服务器IP:5003端口即可
+启动成功，Web端启动在5003端口，访问http://服务器IP:5003
 
 ![f6794df5-9f0d-4f6b-a59b-172bc7e532c3](http://image.aibochinese.com/i/2025/10/30/m9jcac.png)
 
