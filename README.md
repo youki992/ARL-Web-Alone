@@ -1,6 +1,12 @@
 # ARL-Web-Alone
 ARL资产灯塔主系统纯Python启动版，支持后续自定义修改流程功能
 
+<a href="https://github.com/youki992/ARL-Web-Alone"><img alt="Release" src="https://img.shields.io/badge/ARL-Web-Alone-1.0-ff69b4"></a>
+<a href="https://github.com/youki992/ARL-Web-Alone"><img alt="LICENSE" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/youki992/ARL-Web-Alone?color=success)
+![GitHub forks](https://img.shields.io/github/forks/youki992/ARL-Web-Alone)
+![GitHub all release](https://img.shields.io/github/downloads/youki992/ARL-Web-Alone/total?color=blueviolet)  
+
 # 前置环境安装
 大文件无法上传Github，app/tools文件夹下目前不包含大文件，需要下载release中的tools.zip并解压其中的文件到app/tools文件夹中（如有需要可以给里面的可执行文件赋权限）
 ## 一键安装Web端脚本
@@ -41,3 +47,7 @@ python start_all.py
 ![f6794df5-9f0d-4f6b-a59b-172bc7e532c3](http://image.aibochinese.com/i/2025/10/30/m9jcac.png)
 
 ![7699cdfa-a83e-44fc-b513-b700ee42f03b](http://image.aibochinese.com/i/2025/10/30/m9j59m.png)
+
+# 参考详细流程
+
+https://mp.weixin.qq.com/s/__k_V1YXY1gmMiN3PDJO-Q
