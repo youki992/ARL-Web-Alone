@@ -1,0 +1,126 @@
+ARL:
+  API_KEY: ''
+  AUTH: true
+  BLACK_IPS: []
+  FILE_LEAK_DICT: ''
+  PORT_TOP_10:
+  - 80
+  - 8080
+  - 443
+  - 8000
+  - 8888
+  - 7001
+  - 9000
+  - 8001
+  - 9200
+  - 8983
+CELERY:
+  BROKER_URL: amqp://arl:arlpassword@localhost:5672/arlv2host
+FOFA:
+  EMAIL: ''
+  KEY: ''
+  URL: https://fofa.info
+GEOIP:
+  ASN: ''
+  CITY: ''
+MONGO:
+  DB: arl
+  URI: mongodb://admin:admin@localhost:27017/
+QUERY_PLUGIN:
+  alienvault:
+    enable: true
+  bevigil:
+    bevigil_api_key: ''
+    enable: false
+  binaryedge:
+    binaryedge_api_key: ''
+    enable: false
+  bufferover:
+    enable: false
+  censys:
+    censys_api_id: ''
+    censys_api_secret: ''
+    enable: false
+  certspotter:
+    after_id: 1
+    enable: true
+    max_page: 3
+  chaos:
+    chaos_api_key: ''
+    enable: false
+  chinaz:
+    enable: false
+  circl:
+    enable: false
+  crtsh:
+    enable: true
+  dnsdb:
+    dnsdb_api_key: ''
+    enable: false
+  dnsdumpster:
+    enable: false
+  fofa:
+    enable: true
+  fullhunt:
+    enable: false
+    fullhunt_api_key: ''
+  github:
+    enable: false
+    github_token: ''
+  hackertarget:
+    enable: false
+  hunter_qax:
+    api_key: ''
+    enable: false
+    max_page: 5
+    page_size: 100
+  ip138:
+    enable: false
+  ipv4info:
+    enable: false
+  passivetotal:
+    auth_email: ''
+    auth_key: ''
+    enable: false
+  quake_360:
+    enable: false
+    max_size: 500
+    quake_token: ''
+  rapiddns:
+    enable: false
+  robtex:
+    enable: false
+  securitytrails:
+    enable: false
+    securitytrails_api_key: ''
+  shodan:
+    enable: false
+    shodan_api_key: ''
+  sitedossier:
+    enable: false
+  sublist3r:
+    enable: false
+  threatbook:
+    enable: false
+    threatbook_api_key: ''
+  threatminer:
+    enable: false
+  urlscan:
+    enable: false
+  virustotal:
+    enable: false
+    virustotal_api_key: ''
+  wayback:
+    enable: false
+  whoisxmlapi:
+    enable: false
+    whoisxmlapi_api_key: ''
+  zoomeye:
+    enable: false
+    max_size: 1000
+    zoomeye_api_key: ''
+REDIS:
+  DB: 0
+  HOST: localhost
+  PASSWORD: ''
+  PORT: 6379
