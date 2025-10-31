@@ -7,7 +7,7 @@ ARL资产灯塔主系统纯Python启动版，支持后续自定义修改流程�
 ![GitHub all release](https://img.shields.io/github/downloads/youki992/ARL-Web-Alone/total?color=blueviolet)  
 
 # 前置环境安装
-大文件无法上传Github，app/tools文件夹下目前不包含大文件，需要下载release中的tools.zip并解压其中的文件到app/tools文件夹中（如有需要可以给里面的可执行文件赋权限）
+大文件无法上传Github，app/tools文件夹下目前不包含大文件，需要下载release中的sourceCode.zip以及tools.zip并解压tools.zip其中的文件到app/tools文件夹中（如有需要可以给里面的可执行文件赋权限）
 ## 一键安装Web端脚本
 运行install-complete.sh脚本启动
 
